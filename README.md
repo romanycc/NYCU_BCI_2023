@@ -1,5 +1,4 @@
 # NYCU_BCI_2023
-* 2023 Spring Semester Brain Computer Interface
 ![image](https://github.com/romanycc/NYCU_BCI_2023/blob/main/BCI.gif)
 
 ## HW1_ BCI research review
