@@ -1,5 +1,5 @@
 # NYCU_BCI_2023
-![image]([picture or gif url](https://github.com/romanycc/NYCU_BCI_2023/blob/main/BCI.gif))
+![image](https://github.com/romanycc/NYCU_BCI_2023/blob/main/BCI.gif)
 
 ## HW1_ BCI research review
 
